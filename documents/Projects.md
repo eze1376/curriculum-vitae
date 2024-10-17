@@ -1,3 +1,14 @@
+# Volunteer Experience
+
+| **Year**      | **Role & Organization**                                            | **Contribution**                                                                                                                                                                                               |
+|---------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| May. 2024     | **Content Contributor, Ultralytics, California, United States**    | - Contributed to the [Ultralytics](https://github.com/ultralytics/ultralytics/blob/main/docs/en/guides/triton-inference-server.md) repository ([PR](https://github.com/ultralytics/ultralytics/pull/13149))     |
+| Oct. 2023     | **Content Contributor, OpenMMLab, China**                          | - Contributed to the [mmagic](https://github.com/open-mmlab/mmagic/blob/main/README.md) repository ([PR](https://github.com/open-mmlab/mmagic/pull/2048))                                                       |
+| Aug. 2023     | **Content Contributor, Hugging Face, New York, United States**     | - Contributed to the [transformers](https://github.com/huggingface/transformers/blob/main/docs/source/en/tasks/semantic_segmentation.md) repository ([PR](https://github.com/huggingface/transformers/pull/25483))|
+| Aug. 2023     | **Content Contributor, Microsoft, Redmond, WA, United States**     | - Contributed to the [azuredatastudio](https://github.com/microsoft/azuredatastudio/blob/main/README.md) repository ([PR](https://github.com/microsoft/azuredatastudio/pull/24136))                            |
+| Feb. 2021     | **Content Contributor, Facebook (Meta), California, United States**| - Contributed to the [react-native-website](https://github.com/facebook/react-native-website/blob/main/docs/flexbox.md) ([PR](https://github.com/facebook/react-native-website/pull/2510)) and [yoga](https://github.com/facebook/yoga/blob/main/website/contents/properties/flex.md) ([PR](https://github.com/facebook/yoga/pull/1118)) repositories |
+| 2018-2019     | **Co-Founder and Main Member of Scientific Association of Digital Games and Animation, Shahrekord University, Shahrekord, Iran** | |
+
 # Projects
 
 | **Year**      | **Project**                                                                                           | **Details**                                                                                                                               |
@@ -21,3 +32,5 @@
 | Apr. 2016     | **Car Number-Plate Recognition,** Shahrekord University, Shahrekord, Iran                              | - Recognition of Number-Plates using `C++`, `SDL` Extension, and Pixel-wise Processing <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-033A42?style=for-the-badge&logo=sdl&logoColor=white) |
 | Mar. 2016     | **Windows Paint,** Shahrekord University, Shahrekord, Iran                                             | - Windows Paint Application using `C++` and `SDL` Extension <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-033A42?style=for-the-badge&logo=sdl&logoColor=white) |
 | Jan. 2016     | **Reserve Food System (Terminal),** Shahrekord University, Shahrekord, Iran                            | - Reserve and Consume Food Coupons System, [Source Code in Github](https://github.com/eze1376/ReserveFoodService) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+
