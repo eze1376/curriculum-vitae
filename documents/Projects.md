@@ -33,4 +33,11 @@
 | Mar. 2016     | **Windows Paint,** Shahrekord University, Shahrekord, Iran                                             | - Windows Paint Application using `C++` and `SDL` Extension <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-033A42?style=for-the-badge&logo=sdl&logoColor=white) |
 | Jan. 2016     | **Reserve Food System (Terminal),** Shahrekord University, Shahrekord, Iran                            | - Reserve and Consume Food Coupons System, [Source Code in Github](https://github.com/eze1376/ReserveFoodService) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
+# Honors & Awards
 
+| **Year** | **Award**                                                                                               | **Details**                                                                                                             |
+|----------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 2020     | **Ranked 1st** in [Digikala](https://www.digikala.com/) AI Challenge               | Isfahan University of Technology, Isfahan, Iran                                                                     |
+| 2019     | **Talented Student Award**                                                                              | Qualified for graduate studies in Isfahan University of Technology and Shiraz University without entrance exam, Iran  |
+| 2019     | **Ranked 2nd** among Computer Engineering students in all 8 semesters              | Shahrekord University, Shahrekord, Iran                                                                              |
+| 2016     | **Ranked 2nd** in ACM intra-university Contest                                      | Shahrekord University, Shahrekord, Iran                                                                              |
