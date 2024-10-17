@@ -1,3 +1,16 @@
+# Teaching Experience
+
+| **Term**      | **Position**                                                                                        | **Course**                                                       | **Instructor**                                 | **Institution**                                      |
+|---------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------|
+| Spring 2021   | **Teaching Assistant**                                                                              | Autonomous Mobile Robots                                         | Dr. Palhang                                    | Isfahan University of Technology, Isfahan, Iran     |
+| Fall 2020     | **Teaching Assistant**                                                                              | Machine Learning                                                | Dr. Palhang                                    | Isfahan University of Technology, Isfahan, Iran     |
+| Fall 2020     | **Teaching Assistant**                                                                              | Introduction to Computing Systems and Programming               | Mr. Zahabi                                     | Isfahan University of Technology, Isfahan, Iran     |
+| Spring 2019   | **Teaching Assistant**                                                                              | Introduction to Computing Systems and Programming               | Mrs. Moradi                                    | Shahrekord University, Shahrekord, Iran              |
+| Spring 2019   | **Teaching Assistant**                                                                              | Formal Languages and Automata                                   | Mr. Mostafavi                                  | Shahrekord University, Shahrekord, Iran              |
+| Spring 2018   | **Teaching Assistant**                                                                              | Formal Languages and Automata                                   | Mr. Mostafavi                                  | Shahrekord University, Shahrekord, Iran              |
+| Fall 2017     | **Teaching Assistant**                                                                              | Introduction to Computing Systems and Programming               | Dr. Rouhani                                    | Shahrekord University, Shahrekord, Iran              |
+
+
 # Volunteer Experience
 
 | **Year**      | **Role & Organization**                                            | **Contribution**                                                                                                                                                                                               |
